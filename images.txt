@@ -1,1 +1,1 @@
-registry.hub.docker.com/onething1/wxedge
+zmister/mrdoc:v8
