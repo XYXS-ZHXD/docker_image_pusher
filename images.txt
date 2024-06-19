@@ -1,1 +1,1 @@
-onething1/wxedge
+registry.hub.docker.com/onething1/wxedge
